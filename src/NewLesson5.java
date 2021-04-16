@@ -9,6 +9,7 @@ public class NewLesson5 {
         if (matcher.find()){
             text = matcher.replaceAll("tratata ");
             System.out.println(text);
+            System.out.println(text);
         }
 
     }
