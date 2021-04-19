@@ -11,6 +11,7 @@ public class NewLesson5 {
             System.out.println(text);
             System.out.println(text);
             System.out.println("Проверка2");
+            System.out.println("Проверка235");
         }
 
     }
