@@ -10,8 +10,8 @@ public class NewLesson5 {
             text = matcher.replaceAll("tratata ");
             System.out.println(text);
             System.out.println(text);
-            System.out.println("Проверка1");
-            System.out.println("Проверка3");
+            System.out.println("Проверка2");
+            System.out.println("Проверка235");
         }
 
     }
